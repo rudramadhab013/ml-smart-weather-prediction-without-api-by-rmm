@@ -1,0 +1,61 @@
+Month,Year,Avg_Temp (°C),Avg_Humidity (%),Avg_Precipitation (mm),Weather_Status
+January,2019,23.2,66,9,Clear
+February,2019,26.7,62,15,Partly Cloudy
+March,2019,31.5,57,18,Sunny
+April,2019,34.3,55,22,Sunny
+May,2019,36.1,61,52,Sunny
+June,2019,32.0,72,180,Rainy
+July,2019,29.0,81,360,Rainy
+August,2019,28.8,84,310,Rainy
+September,2019,27.9,78,250,Cloudy
+October,2019,26.4,68,160,Partly Cloudy
+November,2019,24.2,66,32,Clear
+December,2019,22.5,64,12,Clear
+January,2020,23.5,65,10,Clear
+February,2020,26.9,63,14,Partly Cloudy
+March,2020,31.7,58,17,Sunny
+April,2020,34.5,56,25,Sunny
+May,2020,36.2,62,55,Sunny
+June,2020,32.1,73,190,Rainy
+July,2020,29.1,82,370,Rainy
+August,2020,28.9,85,320,Rainy
+September,2020,28.0,79,260,Cloudy
+October,2020,26.5,69,170,Partly Cloudy
+November,2020,24.4,67,35,Clear
+December,2020,22.7,65,15,Clear
+January,2021,23.3,66,9,Clear
+February,2021,26.8,62,14,Partly Cloudy
+March,2021,31.6,57,18,Sunny
+April,2021,34.4,55,26,Sunny
+May,2021,36.3,61,56,Sunny
+June,2021,32.2,72,200,Rainy
+July,2021,29.3,81,375,Rainy
+August,2021,29.0,84,325,Rainy
+September,2021,28.1,78,265,Cloudy
+October,2021,26.6,68,165,Partly Cloudy
+November,2021,24.3,66,33,Clear
+December,2021,22.8,64,13,Clear
+January,2022,23.4,66,10,Clear
+February,2022,26.6,62,16,Partly Cloudy
+March,2022,31.8,57,19,Sunny
+April,2022,34.6,55,24,Sunny
+May,2022,36.4,61,57,Sunny
+June,2022,32.3,72,195,Rainy
+July,2022,29.4,81,380,Rainy
+August,2022,29.1,84,330,Rainy
+September,2022,28.2,78,270,Cloudy
+October,2022,26.7,68,175,Partly Cloudy
+November,2022,24.5,66,34,Clear
+December,2022,22.9,64,14,Clear
+January,2023,23.6,65,11,Clear
+February,2023,27.0,63,16,Partly Cloudy
+March,2023,31.9,58,20,Sunny
+April,2023,34.7,56,26,Sunny
+May,2023,36.5,62,58,Sunny
+June,2023,32.4,73,200,Rainy
+July,2023,29.5,82,385,Rainy
+August,2023,29.2,85,335,Rainy
+September,2023,28.3,79,275,Cloudy
+October,2023,26.8,69,180,Partly Cloudy
+November,2023,24.6,67,36,Clear
+December,2023,23.0,65,16,Clear
